@@ -56,7 +56,7 @@ Paste==3.2.2
 pexpect==4.8.0
 pickleshare==0.7.5
 pid==2.2.3
-Pillow==6.2.2
+Pillow==9.3.0
 ply==3.11
 productmd==1.24
 prometheus-client==0.7.1
